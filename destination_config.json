@@ -1,1 +1,1 @@
-{"ssl":false,"host":"20.229.62.148","port":5432,"schema":"airbyte","database":"cdc_testing","password":"74jxjhiwo6z6s","username":"gpadmin","tunnel_method":{"tunnel_method":"NO_TUNNEL"}}
+{"ssl":false,"host":"20.229.62.148","port":5432,"schema":"public","database":"cdc_testing","password":"74jxjhiwo6z6s","username":"gpadmin","tunnel_method":{"tunnel_method":"NO_TUNNEL"}}

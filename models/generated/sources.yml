@@ -1,9 +1,9 @@
 version: 2
 sources:
-- name: cdc_testing
+- name: airbyte_custom_norm
   quoting:
     database: true
     schema: false
     identifier: false
   tables:
-  - name: _airbyte_raw_airbyte_ggr
+  - name: _airbyte_raw_ggr

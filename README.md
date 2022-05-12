@@ -16,4 +16,4 @@
 1. You should find `profiles.yml` and a bunch of other dbt files/folders created there.
 1. To check everything is setup properly: `dbt debug --profiles-dir=$(pwd) --project-dir=$(pwd)`
 1. You can modify the `.sql` files and run `dbt run --profiles-dir=$(pwd) --project-dir=$(pwd)` too
-1. You can inspect compiled dbt `.sql` files before they are run in the destination engine in `normalize/build/compiled` or `normalize/build/run` folders# custom_airbyte_transform_gis
+1. You can inspect compiled dbt `.sql` files before they are run in the destination engine in `normalize/build/compiled` or `normalize/build/run` folders

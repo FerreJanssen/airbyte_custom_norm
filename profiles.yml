@@ -10,7 +10,7 @@ normalize:
       host: 20.229.62.148
       pass: 74jxjhiwo6z6s
       port: 5432
-      schema: airbyte
+      schema: public
       threads: 8
       type: postgres
       user: gpadmin
